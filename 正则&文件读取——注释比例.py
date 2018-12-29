@@ -59,10 +59,3 @@ for i in result:
 print('%.f%%'%((resultLen/contentLen)*100))
 
 
-
-
-
-
-
-
-
